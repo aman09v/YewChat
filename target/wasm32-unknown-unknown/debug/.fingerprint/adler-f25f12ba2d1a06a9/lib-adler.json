@@ -1,0 +1,1 @@
+{"rustc":18250536222580762119,"features":"[]","target":17853861895238563335,"profile":16605510667465718815,"path":16655517357289981522,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/debug/.fingerprint/adler-f25f12ba2d1a06a9/dep-lib-adler"}}],"rustflags":["--cfg","cargo_web"],"metadata":10673633425720882208,"config":0}

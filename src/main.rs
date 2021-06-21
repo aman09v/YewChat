@@ -20,8 +20,8 @@ fn main() {
     yew::initialize();
 
     let context = Context {
-        pubnub: PubnubService::new("pub-c-f1c4eb70-1624-499f-b87e-91a19560ca05",
-                                   "sub-c-53de4390-cf6f-11eb-b6ed-fa77d5b6609d"),
+        pubnub: PubnubService::new("publish key",
+                                   "sub key"),
     };
 
     let app: App<_, Model> = App::new(context);

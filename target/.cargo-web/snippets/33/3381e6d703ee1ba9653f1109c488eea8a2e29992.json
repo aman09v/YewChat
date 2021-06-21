@@ -1,0 +1,1 @@
+{"name":"__cargo_web_snippet_741fb8f0ae5b267adae6465bb991710f8aaca479","code":"$1 = Module.STDWEB_PRIVATE.to_js($1);$2 = Module.STDWEB_PRIVATE.to_js($2);Module.STDWEB_PRIVATE.from_js($0, (function(){let ce=ChatEngineCore.create({publishKey:($1),subscribeKey:($2)});console.log(\"Chat engine core created\");return ce;})());","arg_count":3}

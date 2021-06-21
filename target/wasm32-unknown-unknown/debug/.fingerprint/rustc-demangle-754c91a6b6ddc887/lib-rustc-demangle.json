@@ -1,0 +1,1 @@
+{"rustc":18250536222580762119,"features":"[]","target":9659825257074973661,"profile":16605510667465718815,"path":17062883735132891980,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/debug/.fingerprint/rustc-demangle-754c91a6b6ddc887/dep-lib-rustc-demangle"}}],"rustflags":["--cfg","cargo_web"],"metadata":14996600717891802618,"config":0}

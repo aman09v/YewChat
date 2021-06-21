@@ -1,0 +1,1 @@
+{"rustc":18250536222580762119,"features":"[\"read\"]","target":2969822998723457667,"profile":16605510667465718815,"path":17124488886779229129,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/debug/.fingerprint/gimli-7fd61fd95a0b4fd4/dep-lib-gimli"}}],"rustflags":["--cfg","cargo_web"],"metadata":2892955674895201627,"config":0}

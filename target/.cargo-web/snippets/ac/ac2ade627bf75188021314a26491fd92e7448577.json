@@ -1,0 +1,1 @@
+{"name":"__cargo_web_snippet_0f2ac7dc9557c683f6b3130b78390dfbbcb37d9a","code":"$0 = Module.STDWEB_PRIVATE.to_js($0);let m=($0);myChat.emit(\"message\",{text:m});","arg_count":1}
